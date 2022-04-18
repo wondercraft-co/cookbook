@@ -1,4 +1,4 @@
-# Welcome to wondercraft
+# Welcome to WonderCraft
 
 [Wordpress development](wordpress.md)  
 [About Github Pages](about_pages.md)
